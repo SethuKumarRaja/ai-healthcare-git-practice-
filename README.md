@@ -26,3 +26,7 @@ To learn Git and GitHub workflow.
 - Commits
 - Pull Requests
 - Merge Process
+
+
+## Branching
+Git branches allow independent development.
