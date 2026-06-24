@@ -30,3 +30,8 @@ To learn Git and GitHub workflow.
 
 ## Branching
 Git branches allow independent development.
+
+
+
+## Pull Requests
+Pull Requests help review changes before merging.
