@@ -1,0 +1,9 @@
+Name: Sethu Kumar Raja
+
+Learning Objective:
+Learn Git and GitHub workflow
+
+Date:
+25-06-2026
+
+Progress: Learning Git branches and commits
