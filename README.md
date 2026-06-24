@@ -34,4 +34,8 @@ Git branches allow independent development.
 
 
 ## Pull Requests
-Pull Requests help review changes before merging.
+Pull Requests help review changes before merging.s
+
+
+## Merge Process
+Merging combines changes from one branch into another.
